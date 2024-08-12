@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadMuzammal1
-- 👀 I’m interested in Web Development And Android Development with Flutter tool.Now I am improving my skills. Soon I am going to start my work as a skillful android developer.
-- 🌱 I’m currently learning Web Developmen, Android Development.
+- 👀 I’m interested in Web Development.Now I am improving my skills. Soon I am going to start my work as a skillful web developer.
+- 🌱 I’m currently learning Web Developme. 
 - 💞️ I’m looking to collaborate with someone Who is also a beginner and can do help me in development.
 - 📫 muhammadmuzammal8084@gmail.com
 
